@@ -1,1 +1,1 @@
-include ':app'
+include ':App', ':QB-annotiontions', ':QB-complier', ':QB-core', ':QB-ec'
